@@ -1,0 +1,22 @@
+{
+  "version": "1.2",
+  "dbname": "banco_B",
+  "dbtype": "Protein",
+  "db-version": 5,
+  "description": "data/especie_B.faa",
+  "number-of-letters": 500912,
+  "number-of-sequences": 1597,
+  "last-updated": "2026-08-22T18:11:00",
+  "number-of-volumes": 1,
+  "bytes-total": 799390,
+  "bytes-to-cache": 515390,
+  "files": [
+    "banco_B.pdb",
+    "banco_B.phr",
+    "banco_B.pin",
+    "banco_B.pot",
+    "banco_B.psq",
+    "banco_B.ptf",
+    "banco_B.pto"
+  ]
+}

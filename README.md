@@ -1,7 +1,19 @@
+# Análise de Ortologia (RBH) e Filogenia
 
-## 🌳 Visualização Interativa da Árvore Filogenética (iTOL)
+Este repositório contém os scripts e resultados do processamento de **5.897 sequências de proteínas** via Maximum Likelihood (IQ-TREE).
 
-A árvore filogenética completa de **5.897 sequências** (IQ-TREE / Maximum Likelihood) pode ser explorada interativamente no iTOL com suporte a zoom, busca de acessões e navegação retangular:
+## 🌳 Árvore Filogenética do Projeto
 
-🔗 **[Acessar Árvore Filogenética Interativa no iTOL](https://itol.embl.de/tree/13894135229391581787832803?display_mode=1)**
+Abaixo está a pré-visualização em alta resolução da árvore filogenética retangular:
 
+<p align="center">
+  <img src="arvore_filogenetica_super_resolucao.png" alt="Árvore Filogenética" width="100%">
+</p>
+
+### 🔗 Exploração Interativa no iTOL
+
+Para navegação interativa, zoom e busca de acessos específicos:
+
+👉 **[Acessar Árvore Interativa no iTOL](https://itol.embl.de/tree/13894135229103051787834131)**
+
+*(Dica: se abrir no modo circular, mude para **Retangular** no painel lateral direito).*

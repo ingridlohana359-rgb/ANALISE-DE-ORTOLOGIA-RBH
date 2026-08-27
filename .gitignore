@@ -1,2 +1,5 @@
 env/
 __pycache__/
+resultados_pipeline/*.mldist
+resultados_pipeline/*.fasta
+resultados_pipeline/*.phy

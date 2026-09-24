@@ -10,6 +10,4 @@ Este repositório contém o pipeline completo e os resultados de uma análise de
 ## 📊 Resultados e Visualizações
 * **Árvore Filogenética Global:** A topologia gerada evidencia a divergência genética e a relação hierárquica entre os clados analisados.
 * **Exploração Interativa (iTOL):** O projeto conta com suporte à visualização interativa avançada para busca de acessos específicos.
-
-## 🌳 Árvore Filogenética do Projeto
-![Árvore Filogenética](grafico_visual.py)
+*

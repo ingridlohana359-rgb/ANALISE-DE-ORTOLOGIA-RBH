@@ -12,4 +12,4 @@ Este repositório contém o pipeline completo e os resultados de uma análise de
 * **Exploração Interativa (iTOL):** O projeto conta com suporte à visualização interativa avançada para busca de acessos específicos.
 
 ## 🌳 Árvore Filogenética do Projeto
-![Árvore Filogenética](arvore_filogenetica_super_resolucao.png)
+![Árvore Filogenética](grafico_visual.png)
